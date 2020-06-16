@@ -1,6 +1,7 @@
 # tare2AC
-SEGUNDA TAREA DE EJERCICIOS
-PROGRAMACIÓN EN LENGUAJE ENSAMBLADOR Y DEBUG
+# SEGUNDA TAREA DE EJERCICIOS
+# PROGRAMACIÓN EN LENGUAJE ENSAMBLADOR Y DEBUG
+
 Indicaciones: Realice los ejercicios a continuación utilizando instrucciones de la BIOS. Recopile la solución de
 los tres ejercicios, diagramas, programa escrito y capturas de pantalla de las corridas en un documento PDF y
 súbalo a la plataforma de Moodle de la materia, en el enlace que estará habilitado para tal efecto. Asegúrese
